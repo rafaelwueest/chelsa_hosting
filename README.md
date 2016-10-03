@@ -8,6 +8,7 @@ File sizes are reduced by providing 2-byte integer layers. Generally:
 
 ## Version 1.0
 Hosting was set up starting from 1st October 2016. This was done even though Version 1.1 was already out, in order to also provide reduced file-sizes for the archived version.
+The archived Version 1.0 data is available [here](http://www.wsl.ch/lud/chelsa/archive.html)
 
 ## Version 1.1
-Hosting was set up starting from 1st October 2016.
+Hosting was set up starting from 1st October 2016. The Version 1.1 data is available [here](http://www.wsl.ch/lud/chelsa/downloads.html).
